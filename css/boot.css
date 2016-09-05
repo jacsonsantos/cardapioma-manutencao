@@ -1,0 +1,20 @@
+.home{
+	background-image: url('../img/hero-background.jpg');
+	background-size:cover;
+}
+.box{
+	position: absolute;
+	top:0;
+	right: 0;
+	left: 0;
+	bottom: 0;
+	width: auto;
+	height: auto;
+}
+.font{
+	font-family:'Open Sans';
+} 
+.mtop{margin-top: 10%;}
+.text-center{text-align: center; vertical-align: middle;font-size: 3em;text-transform: uppercase;}
+.text-white{color: #fff;}
+.text-shadow{text-shadow:1px 2px 2px #000;}
